@@ -1,4 +1,5 @@
 (function($) {
+/*
 $(document).ready(function(){
 
   // putting lines by the pre blocks
@@ -48,5 +49,5 @@ $(document).ready(function(){
     $(window).scrollTop(0);
     return false;
   })
-});
+}); */
 })(jQuery)
